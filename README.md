@@ -53,7 +53,7 @@
 ---
 
 ## 📬 Let's Connect!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mingrui-kayla-chen-4a6784251/))
-- 📧 [Email](mailto:mingruichen2021@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mingrui-kayla-chen-4a6784251/)
+- 📧 [Email](mingruichen2021@gmail.com)
 
 💡 **Open to collaborations on exciting projects** or internships related to **Data Science**, **Machine Learning**, and **AI**. Feel free to reach out!
